@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Weiwei Wang (王巍巍). I reside at Shanghai, China. I code and I translate. 
+
+- 🌱 I’m currently learning React and frontend development through https://epicreact.dev/
+- 📫 How to reach me: twitter.com/weydoble
+- 😄 Pronouns: He/him
+
 <!--
 **weiwei/weiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
