@@ -2,7 +2,9 @@
 
 I'm Weiwei Wang (王巍巍). I reside at Shanghai, China. I code and I translate. 
 
-- 🌱 I’m currently learning React and frontend development through https://epicreact.dev/
+- 🌱 I’m currently learning:
+  - 🚀 React via https://epicreact.dev/
+  - 🇪🇸 The Spanish language
 - 📫 How to reach me: twitter.com/weydoble
 - 😄 Pronouns: He/him
 
