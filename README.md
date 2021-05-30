@@ -4,9 +4,10 @@ I'm Weiwei Wang (王巍巍). I reside at Shanghai, China. I code and I translate
 
 - 🌱 I’m currently learning:
   - 🚀 React via https://epicreact.dev/
-  - 🇪🇸 The Spanish language
+  - ⚙️ The rust programming language
 - 📫 How to reach me: twitter.com/weydoble
 - 😄 Pronouns: He/him
+- 🗣️ I speak Chinese, English, and Spanish.
 
 <!--
 **weiwei/weiwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
