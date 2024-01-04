@@ -2,10 +2,7 @@
 
 I'm Weiwei Wang (王巍巍). I reside at Shanghai, China. I code and I translate. 
 
-- 🌱 I’m currently learning:
-  - 🚀 React via https://epicreact.dev/
-  - ⚙️ The rust programming language
-- 📫 How to reach me: twitter.com/KindaSlow
+- 📫 How to reach me: weiweiw.bsky.social
 - 🗣️ I speak Chinese, English, and Spanish.
 
 <!--
