@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Weiwei Wang (王巍巍). I reside at Shanghai, China. I code and I translate. 
+I'm Weiwei Wang (王巍巍). I live at Shanghai, China. I code and I translate. 
 
 - 📫 How to reach me: weiweiw.bsky.social
 - 🗣️ I speak Chinese, English, and Spanish.
